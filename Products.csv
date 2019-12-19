@@ -1,0 +1,14 @@
+product_id,title,description,address,available_from,available_to,max_guest_count,price,city_state_country,host_id
+1,beautiful house,clean and fantastic,123 cmu street,01/01/01,02/02/02,3,900,pittsburgh pa usa,1
+2,wonderful house,chill and cool,456 cmu street,01/01/01,06/06/02,5,250,pittsburgh pa usa,2
+3,cool massage,i am strong,789 cmu street,01/02/01,05/08/02,5,50,pittsburgh pa usa,2
+4,cooler massage,i am strong,789 cmu street,01/02/01,05/08/02,5,50,pittsburgh pa usa,2
+5,coolest massage,i am strong,789 cmu street,01/02/01,05/08/02,5,50,pittsburgh pa usa,2
+6,super cool massage,i am strong,789 cmu street,01/02/01,05/08/02,5,50,pittsburgh pa usa,2
+7,cool massage???,I am strong,789 cmu street,01/02/01,05/08/02,5,50,philadelphia pa usa,2
+8,yeah cool massage,i am strong,789 cmu street,01/01/01,05/08/02,5,50,philadelphia pa usa,2
+9,cool massage,i am strong,789 cmu streeeet,01/02/01,05/08/02,5,50,philadelphia pa usa,2
+10,not cool massage,i am strong,789 central mecigion street,01/02/01,05/08/02,5,50,harrisburgh pa usa,2
+11,a realistic name,I am strong,789 ccmu street,01/02/01,05/08/02,5,50,pittsburgh pa usa,2
+12,a misspellled name,I am strong,799 cmu street,01/02/01,05/08/02,5,50,new_york ny usa,2
+13,cool masssssssssage,i am strong,889 cmu street,01/02/01,05/08/02,5,50,los_angeles ca usa,2

@@ -1,0 +1,11 @@
+user_id,email,password,first_name,last_name,date_of_birth,contact_number
+1,a@abc.com,123456,apple,app,4/13/01,4121112222
+2,b@abc.com,123456,beans,bar,3/13/01,4121112223
+3,c@abc.com,123456,carrot,cat,2/13/01,4121112224
+4,d@abc.com,123456,dory,dot,1/13/01,4121112225
+5,e@abc.com,123456,ellie,eagle,1/13/01,4121112226
+6,f@abc.com,123456,freddie,food,1/13/01,4121112227
+7,g@abc.com,123456,grilled,goose,1/13/01,4121112228
+8,h@abc.com,123456,holly,hen,1/13/01,4121112229
+9,i@abc.com,123456,illusion,ilike,1/13/01,4121112230
+10,j@abc.com,123456,jolly,japan,1/13/01,4121112231

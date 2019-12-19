@@ -1,0 +1,6 @@
+message_content,date,time,guest_id,host_id
+yo my house is ready,4/13/01,08:00,3,1
+yo my house is still not ready,5/13/01,09:00,4,2
+no problem,6/13/01,08:00,4,2
+Yo what is the wife password?,6/14/01,08:00,4,2
+It's password,6/14/01,08:00,4,2
